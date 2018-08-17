@@ -119,22 +119,22 @@
 #u8 {
   position:absolute;
   left:262px;
-  top:690px;
-  width:200px;
-  height:175px;
+  top:700px;
+  width:199px;
+  height:160px;
 }
 #u8_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:200px;
-  height:175px;
+  width:199px;
+  height:160px;
 }
 #u9 {
   position:absolute;
   left:2px;
-  top:80px;
-  width:196px;
+  top:72px;
+  width:195px;
   visibility:hidden;
   word-wrap:break-word;
 }
