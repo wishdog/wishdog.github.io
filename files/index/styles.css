@@ -116,3 +116,25 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u8 {
+  position:absolute;
+  left:262px;
+  top:690px;
+  width:200px;
+  height:175px;
+}
+#u8_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:175px;
+}
+#u9 {
+  position:absolute;
+  left:2px;
+  top:80px;
+  width:196px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
