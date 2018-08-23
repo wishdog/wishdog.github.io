@@ -53,7 +53,7 @@
   left:0px;
   top:0px;
   width:170px;
-  white-space:nowrap;
+  word-wrap:break-word;
 }
 #u4 {
   position:absolute;
@@ -137,4 +137,280 @@
   width:195px;
   visibility:hidden;
   word-wrap:break-word;
+}
+body.a {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:320px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.a {
+  left:12px;
+  top:22px;
+  width:308px;
+  height:398px;
+}
+#u0_img.a {
+  width:308px;
+  height:398px;
+}
+#u1.a {
+  top:191px;
+  width:304px;
+}
+#u2.a {
+  left:50px;
+  top:12px;
+  width:150px;
+  height:33px;
+}
+#u2_img.a {
+  width:150px;
+  height:33px;
+}
+#u3.a {
+  width:150px;
+}
+#u4.a {
+  left:117px;
+  top:343px;
+}
+#u4_img.a {
+}
+#u5.a {
+}
+#u6.a {
+  position:absolute;
+  left:70px;
+  top:390px;
+  width:200px;
+  height:50px;
+}
+#u7.a {
+}
+#u6_state0.a {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:url('../../images/index/u6_state0.png');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:auto;
+}
+#u8.a {
+  left:71px;
+  top:450px;
+}
+#u8_img.a {
+}
+#u9.a {
+}
+body.b {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:463px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.b {
+  left:71px;
+  top:22px;
+  width:308px;
+  height:398px;
+}
+#u0_img.b {
+  width:308px;
+  height:398px;
+}
+#u1.b {
+  top:191px;
+  width:304px;
+}
+#u2.b {
+  left:50px;
+  top:12px;
+  width:150px;
+  height:33px;
+}
+#u2_img.b {
+  width:150px;
+  height:33px;
+}
+#u3.b {
+  width:150px;
+}
+#u4.b {
+  left:260px;
+  top:353px;
+}
+#u4_img.b {
+}
+#u5.b {
+}
+#u6.b {
+  position:absolute;
+  left:141px;
+  top:400px;
+  width:200px;
+  height:50px;
+}
+#u7.b {
+}
+#u6_state0.b {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:url('../../images/index/u6_state0.png');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:auto;
+}
+#u8.b {
+  left:141px;
+  top:450px;
+}
+#u8_img.b {
+}
+#u9.b {
+}
+body.c {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:873px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.c {
+  left:71px;
+  top:22px;
+  width:687px;
+  height:888px;
+}
+#u0_img.c {
+  width:687px;
+  height:888px;
+}
+#u1.c {
+  top:436px;
+  width:683px;
+}
+#u2.c {
+  left:60px;
+  top:130px;
+  width:280px;
+  height:108px;
+}
+#u2_img.c {
+  width:280px;
+  height:108px;
+}
+#u3.c {
+  width:280px;
+}
+#u4.c {
+  left:670px;
+  top:490px;
+}
+#u4_img.c {
+}
+#u5.c {
+}
+#u6.c {
+  position:absolute;
+  left:330px;
+  top:710px;
+  width:200px;
+  height:50px;
+}
+#u7.c {
+}
+#u6_state0.c {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:url('../../images/index/u6_state0.png');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:auto;
+}
+#u8.c {
+  left:331px;
+  top:770px;
+}
+#u8_img.c {
+}
+#u9.c {
+}
+body.d {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:983px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.d {
+  left:71px;
+  top:-57px;
+  width:809px;
+  height:1046px;
+}
+#u0_img.d {
+  width:809px;
+  height:1046px;
+}
+#u1.d {
+  top:515px;
+  width:805px;
+}
+#u2.d {
+  left:60px;
+  top:130px;
+  width:280px;
+  height:108px;
+}
+#u2_img.d {
+  width:280px;
+  height:108px;
+}
+#u3.d {
+  width:280px;
+}
+#u4.d {
+  left:780px;
+  top:533px;
+}
+#u4_img.d {
+}
+#u5.d {
+}
+#u6.d {
+  position:absolute;
+  left:330px;
+  top:710px;
+  width:200px;
+  height:50px;
+}
+#u7.d {
+}
+#u6_state0.d {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:url('../../images/index/u6_state0.png');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:auto;
+}
+#u8.d {
+  left:331px;
+  top:770px;
+}
+#u8_img.d {
+}
+#u9.d {
 }
